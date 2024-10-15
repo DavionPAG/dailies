@@ -1,6 +1,8 @@
 # *Dailies*
 
 ## P1: FxF
-- initialized app
-- added main view, title, and basic styling
--- 0.1
+- Initialized app
+- Added main view, title, and basic styling
+    - 0.1
+- Added components
+    - 0.2
